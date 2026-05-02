@@ -1,0 +1,9 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist",
+  "installCommand": "npm ci",
+  "devCommand": "vite",
+  "env": {
+    "VITE_APP_TITLE": "Metro Manaja"
+  }
+}
